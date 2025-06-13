@@ -46,6 +46,7 @@ El análisis se basa en datos de Waze, donde se extraen registros de congestión
 - SQLAlchemy (para conexión a PostgreSQL)
 - Psycopg2
 - Python-dotenv
+- Openpyxl (para exportar a Excel)
 
 ## Uso
 1. Configure las credenciales de la base de datos en un archivo `.env`.
